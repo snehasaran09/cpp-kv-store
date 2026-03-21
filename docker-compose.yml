@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  kvstore:
+    build: .
+    ports:
+      - "6380:6380"
+    restart: unless-stopped
+    volumes:
+      - ./data:/app/build   # persists kvstore.aof between restarts
