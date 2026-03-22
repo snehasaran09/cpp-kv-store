@@ -1,8 +1,8 @@
-# cpp-kv-store
+Redis - like KeyValue Store - Sneha Saravanan
 
 A distributed, Redis-like in-memory key-value store built in C++ from scratch.
 
-> **One-liner for interviews:** "Built a distributed, Redis-like in-memory key-value store in C++ with custom memory allocation, multi-threaded concurrency control, TCP networking using epoll, TTL expiration, and persistence, handling 100K+ ops/sec under concurrent load."
+A distributed, Redis-like in-memory key-value store in C++ with custom memory allocation, multi-threaded concurrency control, TCP networking using epoll, TTL expiration, and persistence, handling 100K+ ops/sec under concurrent load
 
 ## Features
 
