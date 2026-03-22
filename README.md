@@ -1,4 +1,4 @@
-Redis - like KeyValue Store - Sneha Saravanan
+##Redis - like KeyValue Store - Sneha Saravanan
 
 A distributed, Redis-like in-memory key-value store built in C++ from scratch.
 
